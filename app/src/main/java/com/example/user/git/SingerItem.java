@@ -17,18 +17,22 @@ public class SingerItem {//데이터 보관용 클래스
     }
 
     public String getName() {
+
         return name;
     }
 
     public void setName(String name) {
+
         this.name = name;
     }
 
     public String getAge() {
+
         return age;
     }
 
     public void setAge(String age) {
+
         this.age = age;
     }
 }
